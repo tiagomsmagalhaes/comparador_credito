@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comparador_credito/static/css/main.40ac5a26.css",
+    "main.js": "/comparador_credito/static/js/main.6f15f6d9.js",
+    "index.html": "/comparador_credito/index.html",
+    "main.40ac5a26.css.map": "/comparador_credito/static/css/main.40ac5a26.css.map",
+    "main.6f15f6d9.js.map": "/comparador_credito/static/js/main.6f15f6d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ac5a26.css",
+    "static/js/main.6f15f6d9.js"
+  ]
+}
